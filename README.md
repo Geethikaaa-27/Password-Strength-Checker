@@ -57,7 +57,7 @@ Password Analysis
 ✔ Number
 ✔ Special Character
 ----------------------------------------
-Strength : Very Strong 💪
+Strength : Very Strong 
 Score    : 100/100
 ```
 
@@ -69,6 +69,7 @@ Score    : 100/100
 - Regular Expressions (Regex)
 - Lists
 
-## 👩‍💻 Author
+##  Author
 
 **Kotla Geethika**
+**160123729304**
