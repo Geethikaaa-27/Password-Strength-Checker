@@ -12,7 +12,7 @@ A simple Python project that checks the strength of a password using Regular Exp
 - Gives a strength score (0–100)
 - Suggests improvements for weak passwords
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python 3
 - Regular Expressions (`re` module)
